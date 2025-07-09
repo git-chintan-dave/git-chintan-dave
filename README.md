@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chintan Dave
+# 👋 Hello, I’m Chintan Dave
 
 🚀 Senior Backend Developer / Full-Stack | PHP • Laravel • Node.js • VueJS  
 🌍 Based in Ahmedabad, India | 🌐 Working Remotely with Global Teams  
