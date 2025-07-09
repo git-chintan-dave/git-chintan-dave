@@ -3,7 +3,7 @@
 🚀 Senior Full-Stack Developer | PHP • Laravel • Node.js • VueJS  
 🌍 Based in Ahmedabad, India | 🌐 Working Remotely with Global Teams  
 🧠 Passionate about building real-time, scalable web applications  
-📬 connect.chintan.dave@gmail.com | [LinkedIn](https://linkedin.com/in/chintan-dave)
+📬 connect.chintan.dave@gmail.com | +91 9714529564 | [LinkedIn](https://linkedin.com/in/chintan-dave)
 
 ---
 
@@ -17,14 +17,18 @@
 
 ### 🌐 Featured Projects
 - 🔗 [Polarstock](https://polarstock.com) – Lead Full-Stack Developer  
+- 🔗 [Avioparts](https://avioparts.com) – Full-Stack Developer
+- 🔗 [Global Agents](https://globalagents.us) – Full-Stack Developer
+- 🔗 [Verb Technology](https://market.live) – Senior Backend Developer
 - 🔗 [Leadr](https://www.leadr.com) – Backend Lead  
-- 🔗 [Market.live](https://market.live) – Backend Developer  
-- 🔗 [Avioparts](https://avioparts.com) – Full-Stack Developer  
-- More on [my portfolio](#) *(link optional)*
+- 🔗 [Bendita Burger](https://benditaburger.es) – Full-Stack Developer    
+- 🔗 [JustFab](https://www.justfab.com) – Backend Developer
 
 ---
 
+<!--#
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-chintan-dave&show_icons=true&theme=tokyonight)
 
 ---
+-->
