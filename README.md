@@ -7,6 +7,16 @@
 
 ---
 
+### 🚀 Career Objective
+Highly motivated and work-driven Full-Stack Developer seeking a role where I cancontribute my expertise in Laravel and Node.js, continuously improve my skills, andexplore new technologies to deliver innovative and high-performance websolutions.
+
+---
+
+### 💼 Professional Summary
+Full-Stack Developer with 11+ years of experience, including global freelancing,client management, and co-founding a successful software agency. Skilled in PHP,Laravel, Node.js, and VueJS. Currently working remotely with a Spanish firm, Ulandu, and seeking new full-time opportunities for a stable and growth-orientedcareer.
+
+---
+
 ### 🛠️ Tech Stack
 **Backend:** PHP, Laravel, CakePHP, CodeIgniter, Node.js, Express.js, NestJS (Familiar: Symfony, GraphQL)  
 **Frontend:** HTML, JavaScript, jQuery, VueJS, NuxtJS, AngularJS, Tailwind CSS,Bootstrap, Materialize, Ionic, ElectronJS (Familiar: ReactJS)  
