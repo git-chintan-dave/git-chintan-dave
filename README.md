@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chintan Dave
 
-🚀 Senior Full-Stack Developer | PHP • Laravel • Node.js • VueJS  
+🚀 Senior Backend Developer / Full-Stack | PHP • Laravel • Node.js • VueJS  
 🌍 Based in Ahmedabad, India | 🌐 Working Remotely with Global Teams  
 🧠 Passionate about building real-time, scalable web applications  
 📬 connect.chintan.dave@gmail.com | +91 9714529564 | [LinkedIn](https://linkedin.com/in/chintan-dave)
@@ -8,10 +8,10 @@
 ---
 
 ### 🛠️ Tech Stack
-**Backend:** PHP, Laravel, Node.js, Express.js, NestJS  
-**Frontend:** VueJS, NuxtJS, Tailwind CSS, Bootstrap  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Other:** WebSockets, WebRTC, Firebase, Stripe, Chrome Extensions  
+**Backend:** PHP, Laravel, CakePHP, CodeIgniter, Node.js, Express.js, NestJS (Familiar: Symfony, GraphQL)  
+**Frontend:** HTML, JavaScript, jQuery, VueJS, NuxtJS, AngularJS, Tailwind CSS,Bootstrap, Materialize, Ionic, ElectronJS (Familiar: ReactJS)  
+**Databases:** MySQL, PostgreSQL, SQLite, Microsoft SQL Server, MongoDB (Familiar: Amazon DynamoDB, Redis, Elasticsearch, Apache Cassandra)  
+**Other:** WebRTC (Twilio, Plivo), WebSockets (Socket.IO, Pusher), Cloud Messaging (FCM, OneSignal, CleverTap), Payment Gateways (PayPal, Stripe,Braintree, Telr), Chrome Extension & App APIs  
 
 ---
 
